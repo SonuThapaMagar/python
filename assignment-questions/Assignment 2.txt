@@ -1,0 +1,3 @@
+Assignment 2: Nested List and Dictionary
+Task: Implement all core methods (accessing, modifying, adding, and removing) using the concepts of lists and dictionaries, specifically applying them to Nested Lists and Nested Dictionaries.
+Upload your completed notebook to the assignment-submission channel before the deadline. (8th july)
